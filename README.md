@@ -2,7 +2,7 @@
 
 You can use Culinary Agents API with this SDK for node.js
 
-**Author:** [Thuzi](http://www.thuzi.com)
+**Author:** [Jun S. Yoon](https://github.com/jsyoon94)
 
 **License:** Apache v2
 
