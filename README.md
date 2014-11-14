@@ -6,7 +6,7 @@ You can use Culinary Agents API with this SDK for node.js
 
 **License:** Apache v2
 
-# Installing facebook-node-sdk
+# Installing culinaryagents-api-node-sdk
 
 ```
 npm install ca-api
