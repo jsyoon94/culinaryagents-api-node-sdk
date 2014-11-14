@@ -29,7 +29,7 @@ CA.api('/users', 'get',  {access_token:'oAuth-access-token'}, function (result) 
 ```
 
 
-### Get
+### POST
 
 ```js
 var CA = require('ca');
@@ -40,7 +40,7 @@ CA.api('/users', 'post',  {access_token:'oAuth-access-token', 'firstname':'Jun',
 ```
 
 
-### TEST Node module
+### Test Node module with mocha
 ```ca
 node ./node_modules/mocha/bin/mocha --recursive --reporter spec
 ```
