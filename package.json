@@ -11,7 +11,7 @@
     "ca",
     "ca api"
   ],
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://github.com/jsyoon94/culinaryagents-api-node-sdk",
   "repository": {
     "type": "git",
