@@ -189,7 +189,8 @@
                       // let's not let them blow up our application.
                       json =  { error: {
                           code: 'JSONPARSE',
-                          Error: ex
+                          Error: ex,
+                          body: body
                       }};
                     }
                     cb(json);
